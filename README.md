@@ -1,2 +1,5 @@
-# bootstrap-project
-web dev course bootstrap-project
+# Backpacker project development
+
+web applicaation
+
+mobile application
