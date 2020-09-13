@@ -4,6 +4,8 @@ body{
   
 }
 
+
+
 .outerdiv{
     position: relative;
     top: 243px;
@@ -649,6 +651,11 @@ select.form-control[multiple] {
 
 /*-------------------------------------------------TOP-CONTAINER-DIV STYLING STARTS HERE-------------------------------------------------------*/
 
+.intro{
+    width: 100%;height: 100%;background-size: cover;margin: 0;padding: 8%;z-index: -3;
+}
+
+
 .knowmore{
  top: 45%;
  width: 25%;
@@ -708,10 +715,10 @@ color:#8a8484
     border-right-width: 0;
     border-bottom-width: 0;
     width: 5%;
-    
+    color:#4d4949;
 }
 .feature-img{
-    width: 50%;
+    width: 100%;
 }
 .seperator{
     margin-top: 3%;
@@ -722,11 +729,12 @@ color:#8a8484
     border-right-width: 0;
     border-bottom-width: 0;
     width: 5%;
-    
+    color:#4d4949;
 }
 
 .feature-h3{
     margin: 9%;
+    color: #28df99;
 }
 /*----------------------------------------------------SEPERATOR HR-----------------------------------------------------------------------------*/
 
@@ -741,7 +749,14 @@ color:#8a8484
 }
 .feature-p{
     margin: 6%;
+    line-height: 2;
+    color:#7e7878
 }
+
+.adv-p{
+    line-height: 2;
+}
+
 
 /*----------------------------------------------------APP FEATURE DESCRIPTION STYLING ENDS HERE ----------------------------------------------*/
 
@@ -765,6 +780,7 @@ color:#8a8484
 }
 
 
+
 .outerdiv{
     position: relative;
     top: 281px;
@@ -779,7 +795,7 @@ top: 8px;
     display: none;
 width:28% ;
 margin-left:39%;
-transform: rotate(00deg);
+transform: rotate(90deg);
 z-index:1
 }
 .resp{
@@ -815,7 +831,7 @@ z-index:1
 
 #seperator{
     border-style: none;
-    margin-top: 61%;
+    margin-top: 8%;
     border: 4px dotted;
     size: 2;
     border-left-width: 0;
@@ -857,6 +873,8 @@ z-index:1
 
 
 
+
+
 /*----------------------------------------------------APP FEATURE DESCRIPTION STYLING STARTS HERE ----------------------------------------------*/
 
 
@@ -884,5 +902,9 @@ z-index:1
 }
 
 
-/*------------------------------------------------------MEDIA SCREEN QUERRIES STARTS HERE----------------------------------------------------------
+
+
+
+/*------------------------------------------------------MEDIA SCREEN QUERRIES STARTS HERE----------------------------------------------------------*/
+
 
