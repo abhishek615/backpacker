@@ -880,20 +880,3 @@ z-index:1
 
 /*------------------------------------------------------MEDIA SCREEN QUERRIES STARTS HERE----------------------------------------------------------
 
-@media (max-width: 800px){
-
-    -------------------------------------------------TOP-CONTAINER-DIV STYLING STARTS HERE-------------------------------------------------------
-.outerdiv{
-
-
-    
-    position: relative;
-    top: 221px;
-
-    position: relative;
-    top: 200px;
-    /* margin-left: -5%; 
-    right: 35px;
-}
-}
-}*/
