@@ -1,3 +1,4 @@
+  
 body{
  
     font-family: 'Montserrat', sans-serif;
@@ -69,6 +70,7 @@ background-size: cover;width: 100%;padding: 25%;position:relative;z-index: -3;
 .teampadding{
     padding: 5%;
 }
+
 
 
 
@@ -896,13 +898,10 @@ z-index:1
 
 /*-----------------------------TEAM SECTION--------------------------*/
 
-
- .teampadding{
+.teampadding{
     padding: 8%;
 }
- 
- 
- 
+
 
 /*-----------------------------TEAM SECTION-------------------------*/
 
@@ -914,5 +913,3 @@ z-index:1
 
 
 /*------------------------------------------------------MEDIA SCREEN QUERRIES STARTS HERE----------------------------------------------------------*/
-
-
